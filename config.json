@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersncrypt",
+        "uuid": 8063862,
+        "checksum": "gldxna"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
